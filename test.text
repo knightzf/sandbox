@@ -1,0 +1,14 @@
+[{
+    "blob": "version/pe2",
+    "version": {
+        "handler": {
+            "type": "file",
+            "path": "/tmp/pe2.version"
+        },
+        "actions":{
+            "open": {
+                "type": "skip"
+            }
+        }
+    }
+}]
