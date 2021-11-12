@@ -75,6 +75,8 @@ int main()
   //Managed<std::function<void()>>::HandleF<Wrapper> x(f);
   //Fd(1);
   X<std::function<void()>> x(f);
+  //int a;
+  //X<int*> x(&a);
   //Y y;
   //X<Y> x(y);
 }
