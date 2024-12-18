@@ -2,10 +2,8 @@ import boto3
 import json
 
 
-session = boto3.session.Session(aws_access_key_id='aaa',
-                                aws_secret_access_key='bbb',
-                                aws_session_token = 'ccc',
-                                region_name='us-west-2')
+session = boto3.session.Session()
+# session takes aws_access_key_id,aws_secret_access_key aws_session_token and region_name
 dynamodb = session.resource('dynamodb')
 table = dynamodb.Table('plaid-items')
 resp = table.scan(AttributesToGet=['metadata'])
