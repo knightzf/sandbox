@@ -1,0 +1,504 @@
+Id,Name,Custodian,Account Number Formats
+7,Banco Santander Private Bank - US,bancosantander,"AANNNNNNN (Master)
+NNNNN (Master)
+NNNNNNNN (Master)
+NNNNNN (Master)
+NNNNNNN (Master)
+AANNNNNNNNNNNN (Master)
+AAANNNNNNN (Master)"
+9,Bank of America Merrill Lynch Checking ,bamlbai2,NNNNNNNNNNNN (Master)
+16,BNY Mellon Wealth Management Trust,bnycred,"NNNNNNNNNNN (Master)
+NNNNNNAANNN (Master)
+NNNNNNNANNN (Master)
+NNNNNNANNNN (Master)
+NNNNNNNNNNN-N (Master)"
+19,City National Bank,citynationalbank,NNNNNNNNN (Master)
+20,City National Bank Trust,seicitynationalbank,"NNNNNNNN (Master)
+NNNNNNNNN (Master)"
+32,Fidelity Investments: Institutional Brokerage,fidelity,"NNNNNNNNN (Master)
+ANNNNNNNN (Master)
+XXXNNNNNN (Master)"
+35,Fiduciary Trust International,fiduciarytrust,NNNNNNNNN (Master)
+37,First Republic Bank,firstrepublicbank,"NNNNNNN (Master)
+NNNNNNNN (Master)
+NNNNNNNNN (Master)
+NNNNNNNNNN (Master)
+NNNNNNNNNNN (Master)"
+38,First Republic Trust Company,firstrepublictrust,"NNNNNNNNNN (Master)
+NNNNNNNN (Master)"
+40,Goldman Sachs Private Wealth Management,goldman,NNNNNNNNN (Master)
+41,Interactive Brokers LLC,interactivebrokers,"ANNNNN (Master)
+ANNNNNN (Master)
+ANNNNNNN (Master)
+ANNNNNNNN (Master)"
+43,Jefferies Prime Brokerage,jefferiesprimebrokerage,NNNNNNNN (Master)
+48,JP Morgan Private Bank,jpmorganprivatebank,ANNNNNNNN (Master)
+49,JP Morgan International Private Bank,jpmorganinternational,NNNNNNN (Master)
+52,Lombard Odier & Cie,lombardodier,"XXXXXXXX (Master)
+NNNNN (Master)
+NNNNNN (Master)"
+53,Merrill Lynch Private Wealth Management,merrill,"XXXXXXXX (Master)
+NNNNNNNN (Master)"
+55,Morgan Stanley Prime Brokerage,mspb,"NNNNNNNNN (Master)
+NNNAAAAAN (Master)
+NNNANNNNN (Master)
+NNNXXXXXN (Master)"
+57,Northern Trust Company,northerntrust,"NNNNNNN (Master)
+AAANN (Master)
+AAAANN (Master)"
+61,Pershing Advisor Solutions ,pershingas,XXXNNNNNN (Master)
+63,BAC Florida Investments,pershingbfi,XXXNNNNNN (Master)
+64,CGIS Securities LLC,pershingcgis,XXXNNNNNN (Master)
+67,GMS Group LLC,pershinggms,XXXNNNNNN (Master)
+68,Intercontinental Asset Management Group,pershingintercontinental,XXXNNNNNN (Master)
+72,Tocqueville Securities,pershingtocqueville,XXXNNNNNN (Master)
+74,PNC Bank Trust,pncbank,NNNNNNNNNNNNNN (Master)
+75,Raymond James,raymondjamestpd,"XXXXXXXX (Master)
+ANNNNNN-AA (Master)
+NNNNNNNNNNNNNNNNNN (Master)
+NNNNNNNNNN (Master)
+NNNNNNNNN (Master)
+NNNNNNN (Master)
+XXX (Master)
+XXXX (Master)
+XXXXX (Master)
+XXXXXX (Master)"
+76,RBC Wealth Management,rbc,"NNNNNNNN (Master)
+NANNNNNN (Master)
+NAANNNNN (Master)"
+77,Regions Bank,regionsfinancial,NNNNNNNNNN (Master)
+79,Stifel Nicolaus,stifel,NNNNNNNN (Master)
+81,Synovus Trust,synovustrust,NNANNNNNN (Master)
+82,TD Ameritrade,td,"NNNNNNNNN (Master)
+XXXX (Master)
+XXX (Master)
+XXXXX (Master)"
+83,US Bank Trust,usbank,"NNNNNN (Master)
+NNNNNNN (Master)
+NNNNNNNN (Master)
+NNNNNNNNNN (Master)
+NNNNNNNNNNNN (Master)
+NNAAANNNNN (Master)
+NNN-AA-AAAA (Master)
+NNN-AAA-AAAA (Master)
+NNN-AA-AAAN (Master)
+NNN-AA-AAAAN (Master)
+NN-NNNNNNNNN (Master)
+NN-NNNNNNNNA (Master)
+NN-NNNN (Master)
+NN-NNNNN (Master)
+NNNNNNNNNNA (Master)
+NN-NNNNA (Master)
+NNNNN (Master)
+NNNNNNNNNNN (Master)
+NNN-AN-AAAA (Master)
+NNN-AA-AAA (Master)
+NNNNNNNNNNNA (Master)
+NNNNNN-NNN (Master)
+NNNNNNN-NNN (Master)
+AA-NNNN-N (Master)
+NN-NNNNNNNN (Master)
+NN-NNNNNN (Master)
+NNNNNNNNN (Master)"
+84,US Bank Retail,usbankretail,NNNNNNNNNNNN (Master)
+85,Bank of America Private Bank ,ustrust,NNNNNNNNNNNNNN (Master)
+86,UBS Wealth Management Americas,ubs,"XXXNNNN (Master)
+XXXNNNNNNN (Master)
+XXNNNNN (Master)"
+90,Wells Fargo Trust & Custody,wellsfargo,"NNNNNNNN (Master)
+NNNNNNNNN (Master)
+NNNNNNNNNN (Master)
+AAANNNNNN (Master)
+NNNNNN (Master)"
+91,Wells Fargo Private Banking,wellsfargobank,NNNNNNNNNN (Master)
+103,Citigroup Global Markets Inc.,citibank,XXXNNNNNN (Master)
+104,Credit Suisse Securities (USA),pershingcreditsuisse,XXXNNNNNN (Master)
+105,Alliance Bernstein,alliancebernstein,NNNNNNNN (Master)
+108,Citi Private Bank US & CA,citiprivatebank,"NNANNNNNNNNN (Master)
+NNNNNNNNNN (Master)
+ANNNNNNNN (Master)
+NNNNNNNNN (Master)
+NNNNNNNNNNN (Master)
+NNNNNNNNNNNNNNN (Master)
+NNNNNNNN (Master)
+ANANNNNNNNNN (Master)
+NNANNNNNNNNA (Master)
+NNNAAANNNNNNNNNN (Master)
+NNANNNNN (Master)
+AAANNNNNN (Master)
+NNNNNNNNNNNN (Master)
+NNNAAAANNNNNNNNN (Master)
+NNAANNNNNNNN (Master)
+AAAAANNNNNNN (Master)
+NANNNNNNANNN (Master)
+NNNNNNNNNNNNNN (Master)
+AANNNNNNNNNNNNN (Master)"
+109,BMO Global Asset Management,bmo,"NNNNNNNNN (Master)
+NNANNNNNN (Master)"
+110,BNY Mellon Wealth Management Workbench,workbench,"AANANNNNNNNN (Master)
+AAAANNNNNNNN (Master)
+ANNANNNNNNNN (Master)
+ANAANNNNNNNN (Master)"
+112,Fidelity Family Office Services (FFOS),fidelity,"NNNNNNNNN (Master)
+ANNNNNNNN (Master)"
+113,Brown Brothers Harriman & Co ,bbhprivatebank,NNNNNNNNNN (Master)
+114,RBC Dominion Securities ,rbcdominionsecurities,NNNNNNNN (Master)
+115,Banque Pictet & Cie,pictet,"NNNNNN (Master)
+ANNNNNN (Master)"
+116,Oppenheimer & Co.,oppenheimer,"ANNNNNNNNN
+AAAAAAAA (Master)"
+118,Julius Baer Bank & Trust,juliusbaerhost,"NNNNNNNN (Master)
+NNNNNNNNNNNN (Master)"
+119,Deutsche Bank Trust Company,dbvendex,NNNNNN (Master)
+120,State Street,statestreetsei,"AANNNN (Master)
+NNNNNNNNN (Master)
+NNNNNNN (Master)
+AAANNNNA (Master)
+AANNNNNN (Master)"
+121,Truist Financial,suntrustbank,"NNNNNNN (Master)
+NNNNNNNNNN (Master)"
+122,UBS AG,ubsag,"NNNNNNNNNNNNNN (Master)
+NNNNNNNNNNNNNNNN (Master)"
+123,Charles Schwab Institutional,schwab,NNNNNNNN (Master)
+124,Key Bank,keybank,NNNNNNN (Master)
+125,National Financial Services (NFS),fidelity,"XXXNNNNNN (Master)
+NNNNNNNNNN (Master)"
+127,Bessemer Trust,bessemertrust,"NANANN (Master)
+NANNNN (Master)
+NNNNNN (Master)
+AANNNA (Master)
+AANNAA (Master)
+AANNNN (Master)
+AANNAN (Master)"
+128,Citco AXI Fund Services,axi,"NN-NNNNNN-NNNNNN (Master)
+NN-NNNNNN (Master)"
+129,Millennium Trust Company,millenniumtrust,XXXXXXXXX (Master)
+130,MUFG Union Bank Trust,unionbanktrust,NNNNNNNNNN (Master)
+132,HSBC Bank USA - Cash Management Services,hsbcbankusa,NN-NNNNNNN (Master)
+134,Wells Fargo Clearing Services,firstclearing,"NNNNNNNNN (Master)
+NNNNNNNN (Master)
+NNNNNN (Master)"
+135,BNY Mellon Global Securities Processing,workbenchgsp,NNNNNN (Master)
+136,Itau International Securities,pershingitau,XXXNNNNNN (Master)
+138,M&T Bank/Wilmington Trust,seiwilmingtontrust,"NNNNNN-NNN (Master)
+NNNNNNN (Master)"
+139,Bank J. Safra Sarasin,safrasarasin,NNNNNNNN (Master)
+140,UMB Investment Bank,umbbank,"AA-NNNNNN-N (Master)
+NNNNNN.N (Master)
+NNNNNN.NN (Master)"
+141,Nationwide Advisory,jeffnat,"NNNNNNN (Master)
+AANNNNNNN (Master)"
+142,Bel Air Invesment Advisory,pershingbelair,XXXNNNNNN (Master)
+143,Pershing BNY Mellon Custody,pershingbankcustody,XXXNNNNNN (Master)
+144,Bolton Global/Everest Capital,pershingboltonglobal,XXXNNNNNN (Master)
+147,Boreal Capital Securities LLC,pershingmorawm,XXXNNNNNN (Master)
+148,Investment Placement Group,pershingipg,XXXNNNNNN (Master)
+150,"Fieldpoint Private Securities, LLC",pershingfp,XXXNNNNNN (Master)
+151,Financial Northeastern Companies,pershingfnc,XXXNNNNNN (Master)
+152,First Manhattan Co.,pershingfirstmanhattan,XXXNNNNNN (Master)
+154,Geneos Wealth Management Inc.,pershinggeneos,XXXNNNNNN (Master)
+155,"Global Investor Services, LLC",pershinggis,XXXNNNNNN (Master)
+156,HighTower,pershinghightower,XXXNNNNNN (Master)
+157,Oriental Financial Services,pershingoriental,XXXNNNNNN (Master)
+158,Piper Jaffray & Co.,pershingpiperjaffray,XXXNNNNNN (Master)
+159,Valores Bancolombia SA,pershingvalores,XXXNNNNNN (Master)
+160,Deutsche Bank Securities,pershingdeutschebank,XXXNNNNNN (Master)
+161,RBC Investor & Treasury Services,evarerbcits,"NNNNNNNNN (Master)
+NNNNNN (Master)
+NNNNNNNNNAAA (Master)"
+163,BMO Harris Private Bank,smabmoharris,NNNNNNNNNNNN (Master)
+164,Valores Mexicanos Casa de Bolsa,valmex,NNNNNN (Master)
+165,Evercore Wealth Management,evercorewm,"NNNNNNN (Master)
+NNNNNNNN (Master)"
+166,Bulltick Capital Markets,pershingbulltick,XXXNNNNNN (Master)
+167,CNR Securities LLC,pershingrim,XXXNNNNNN (Master)
+168,my529/Utah Educational Savings Plan,uesp,"NNNNNNNNN (Master)
+NNNNNNN (Master)"
+169,Northern Trust Securities Inc.,fidelity,"XXXNNNNNN (Master)
+AAA-NNNNN (Master)"
+170,Deutsche Bank (Checking/Savings Accounts),deutschebankbai2,NNNNNNNNNN (Master)
+171,Ameritas Investment Corp,fidelity,NNNNNNNNN (Master)
+172,Neuberger Berman LLC,fidelity,"NNNNNNNN (Master)
+AAANNNNNN (Master)"
+173,PNC Investments ,fidelity,AAA-NNNNN (Master)
+174,SunTrust Investment Services,fidelity,XXXNNNNNN (Master)
+175,William Blair & Co,fidelity,"NNNNNNNNN (Master)
+AAANNNNNN (Master)"
+176,ByAllAccounts Aggregation Service,byallaccounts,
+177,Barclays Bank SA,barclayssuisse,NNNNNNNN (Master)
+180,SEI Advisors Network/Private Trust,seiadvisorsnetwork,"XXXXXX (Master)
+XXXXXXX (Master)
+XXXXXXXX (Master)
+NNNNNN-AAA (Master)"
+181,Fifth Third Bank,fifththirdbank,NNNNNNNNNNNNNN (Master)
+182,Wall Street Access,pershingwallstreet,XXXNNNNNN (Master)
+183,The O.N. Equity Sales Company ,pershingonesco,XXXNNNNNN (Master)
+184,Frost Bank Trust,fitekfrost,"AANNN (Master)
+ANNNNNNN (Master)
+ANNNNNNNN (Master)"
+185,EFG Bank,efgswitzerland,"NNNNNN (Master)
+NNNNNN-N (Master)
+NNNNNN-NN (Master)"
+186,MapleMark Bank,maplemarkbai2,"NNNNNNNN (Master)
+NNNNNNNNNN (Master)"
+187,National Bank Independent Network ,nbin,"NN (Master)
+NAANAXA
+NNAAAAA
+NNAANAA
+NANNAA-A
+NANANAA
+NANANNA
+NANAAAA
+NANANAN
+NAAAAAA
+NNN (Master)
+NNNN (Master)
+NAANAXA (Master)
+NNAAAAA (Master)
+NANNAA-A (Master)
+NANANAA (Master)
+NANANNA (Master)
+NANAAAA (Master)
+NANANAN (Master)
+NAAAAAA (Master)"
+188,"Comerica Securities, Inc.",pershingcomerica,XXXNNNNNN (Master)
+189,BTG Pactual USA,pershingbtgpactual,XXXNNNNNN (Master)
+190,BBVA Compass,pershingbbva,XXXNNNNNN (Master)
+191,First Western Trust Bank,accutechfirstwestern,NNNNNNNNN (Master)
+192,Leumi Investment Services,pershingleumi,XXXNNNNNN (Master)
+193,EFG Capital,pershingefgcapital,XXXNNNNNN (Master)
+194,Christiana Trust,seichristiana,"NNN-NNNNN-NN (Master)
+AANNNNNN-N (Master)"
+195,Bank of the West,fisbotw,NNANNNNNN (Master)
+196,Dorsey & Whitney Trust,smadorsey,NNN-NNNNN-NN (Master)
+197,Bank of Oklahoma Financial Trust,fisbokf,NNNNNNNNN (Master)
+198,Desjardins Securities,desjardins,"NNNANAN (Master)
+NNAAAAA (Master)
+NNNNNNN (Master)"
+199,Janney Montgomery Scott,evarejanneymont,NNNNNNNN (Master)
+200,JP Morgan Securities,jpmorganclearingcorp,NNNNNNNN (Master)
+201,Morgan Stanley Global Wealth Management,mssb,"NNNNNNNNN (Master)
+NNNNNNNNNNNN (Master)
+AAAAAA (Master)
+AAAAAN (Master)"
+202,UBS SA,ubsluxembourg,"NNNNNNN (Master)
+NNNNNNNN (Master)"
+204,TD Commercial Banking,tdbankcanadabai2,NNNNNNNNNNN (Master)
+206,Wedbush Securities,wedbush,"NNNNNNNN (Master)
+NAANNNNN (Master)"
+207,Andbanc Brokerage LLC,pershingandbanc,XXXNNNNNN (Master)
+209,City National Bank EASI,citynationalbankeasi,"NNNNNNNNN (Master)
+NNNNNNN (Master)
+NNNNNNNN (Master)"
+210,Convergex,pershingconvergex,XXXNNNNNN (Master)
+211,Fidelity Investments Charitable Gift Fund/Donor-Advised Fund,fidelitycgf,"NNNN (Master)
+NNNNN (Master)
+NNNNNN (Master)
+NNNNNNN (Master)
+NNNNNNNNN (Master)
+ANNNNNNNN (Master)"
+215,Valores Bancolombia S.A.,pershingvalores,XXXNNNNNNN (Master)
+216,UBS Prime Brokerage,ubsprimebrokerage,NNNNNNN (Master)
+218,BNP Paribas Prime Brokerage,bnpprime,NNNNNNNN (Master)
+219,JP Morgan Prime Brokerage,jpmorganprimebrokerage,NNNNNNNN (Master)
+220,TD Ameritrade Trust,tdameritrade,"AANNNNN (Master)
+NNN (Master)
+ANN (Master)"
+221,Legacy Trust,smalegacytrust,"NNNNNNNN (Master)
+NNNNNNNNN (Master)
+NNNNNNNN-NNN (Master)"
+222,Vistra Alternatives,orangefield,"NNN-NN-NNN (Master)
+NNNNNNNN (Master)"
+223,Betterment LLC,betterment,NNNNNNNNNNNNNNN (Master)
+224,Bruderman Brothers,pershingbruderman,XXXNNNNNN (Master)
+225,FIS Wealth Outsourcing Solutions,fiswos,"NNNNNNNNN (Master)
+NNANNNNNN (Master)"
+227,Newport Trust Company,seinewport,NNNNNNNN (Master)
+228,Day Pitney,seidaypitney,ANNN (Master)
+229,Charles Schwab Trust Asset Services,spcschwabtrust,NNNNNNNN (Master)
+230,"Insight Securities, Inc.",pershinginsightsecurities,XXXNNNNNN (Master)
+231,Ameriprise Financial,ameriprise,NNNNNNNN (Master)
+232,Equity Bank,fisequitybank,NNNNNNNNN (Master)
+234,Bank of Oklahoma Financial Banking,bokfbai2,NNNNNNNNNN (Master)
+235,Torrey Pines Bank,torreypinesbai2,NNNNNNNNNN (Master)
+236,TriState Capital Bank,tristatebai2,NNNNNNNNN (Master)
+238,Vanguard Flagship Select,vanguard,"NNNNNNNN (Master)
+NNNNNNNNNN (Master)
+NNNN-NNNNNNN (Master)
+NNNNNNNNN-NN (Master)
+NNNNNNNNNNN (Master)"
+239,Canaccord Financial,canaccord,NNXXXXXX (Master)
+240,Union Bancaire Privee AG,ubpswitzerland,NNNNNNNNNNNN (Master)
+241,Sweet Water Securities,pershingsweetwater,XXXNNNNNN (Master)
+243,Independent Bank,independentbankbai2,NNNNNNN (Master)
+244,Commerce Trust Company,fiscommercetrust,NNNNNNNNN (Master)
+245,Amerant Bank,pershingamerant,XXXNNNNNN (Master)
+246,World Equity Group,pershingworldequitygroup,XXXNNNNNN (Master)
+247,LifeInvest Asset Management,pershinglifeinvest,XXXNNNNNN (Master)
+248,Shareholders Service Group,pershingssg,XXXNNNNNN (Master)
+249,Portfolio Resources Group,pershingportfolioresources,XXXNNNNNN (Master)
+250,Northwestern Mutual Wealth Management Company,pershingnwm,XXXNNNNNN (Master)
+251,Richardson GMP,richardsongmp,NNAAAANA (Master)
+252,Trustmark National Bank,smatrustmark,NNNNNNNNNN (Master)
+253,Banco Popular,fispopular,NNNNNNNNN (Master)
+254,Charles Schwab Retirement Business Services,schwabrbs,NNNNNN (Master)
+256,Fidelity Investments Life Insurance,fidelitylifeinsurance,NNNNNNNNN (Master)
+257,Banco Santander Private Bank Suisse,bancosantandersuisse,"AANNNNNNN (Master)
+AAANNNNNNN (Master)"
+258,Fidelity Clearing Canada,fidelityclearingcanada,ANANNNNA (Master)
+259,Citi Private Bank (EMEA),citiprivatebankemea,"ANNNNNNNN (Master)
+NNNNNNNNNN (Master)"
+260,Arcadia Securities,pershingarcadia,XXXNNNNNN (Master)
+261,Bernardi Securities,pershingbernardi,XXXNNNNNN (Master)
+262,UBS Bank,ubsbankcanada,NNNNNN (Master)
+263,Folger Nolan Fleming Douglas,pershingfolgernolan,XXXNNNNNN (Master)
+264,Texas Capital Bank,texascapitalbankbai2,NNNNNNNNNN (Master)
+266,ProCapital Sociedad de Bolsa SA,pershingprocapital,XXXNNNNNN (Master)
+267,Global Wealth Mangement (GWM),pershingglobalwealth,XXXNNNNNN (Master)
+268,American Portfolios Financial Services Inc,pershingamericanportfolios,XXXNNNNNN (Master)
+269,Northern Trust International Banking,northerntrustibcbai2,NNNNNNNNNNN (Master)
+270,CAIS Group,pcrcais,XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX (Master)
+271,Bank of Nova Scotia ,bankofnovascotiabai2,NNNNNNNNNNNNN (Master)
+274,First Hawaiian Bank,smafirsthawaiianbank,NNNNNNNNN (Master)
+276,Tigress Financial,pershingtigress,XXXNNNNNN (Master)
+277,XP Investments,pershingxpinvestments,XXXNNNNNN (Master)
+278,JP Morgan Commercial Bank,jpmorganbai2,NNNNNNNNN (Master)
+279,GBM International,pershinggbminternational,XXXNNNNNN (Master)
+280,PCR Alternatives Aggregation Services (Newport),pcrnewport,NNNNN (Master)
+281,PCR Alternatives Aggregation Service,pcralts,XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX (Master)
+282,New York Digital Investment Group (NYDIG),nydig,NNNNN (Master)
+283,Herold & Lantern Investments,pershingheroldlantern,XXXNNNNNN (Master)
+284,Miura Capital LLC,pershingmiuracapital,XXXNNNNNN (Master)
+285,US Bank Money Center,usbankmoneycenter,NNNNNNNNN (Master)
+286,The Chicago Trust Company,fischicagotrust,NNNNNNNNN (Master)
+287,MapleMark Bank - ICS,maplemarkicsbai2,"NNNNNNNN (Master)
+NNNNNNNNNN (Master)"
+288,BMO Investorline,bmocanada,NNNNNNNN (Master)
+289,BMO Nesbitt Burns,bmocanada,NNNNNNNN (Master)
+290,BMO Private Banking,bmocanada,NNN-NNNNN (Master)
+291,Pacific Premier Trust, smapacificpremiertrust,NNNNNNNNNNNN (Master)
+292,Adhesion,adhesion,"AANNNNNNNN (Master)
+AANNNNNNNNN (Master)
+AAAAANNNNNNNA (Master)
+AAAAANNNNNNN-A (Master)
+AAANNN-NNNNNN-A (Master)
+AAANNNNNNNNNA (Master)
+AAANNNNNNNNN (Master)
+AAANNN-NNNNNN (Master)
+NNN (Master)"
+293,Jefferies LLC,pershingjefferies,XXXNNNNNN (Master)
+294,San Pasqual Fiduciary Trust Company,fissanpasqualfiduciarytrust,NNNNNNNNN (Master)
+296,Snowden Lane,pershingsnowdenlane,XXXNNNNNN (Master)
+297,National Advisors Trust Company,nationaladvisorstrust,NNNNNNNNNNN (Master)
+298,Lake City Bank,fislakecity,NNNNNNNNN (Master)
+299,Associated Trust Company,fisassociatedtrust,"NNANNNNNN (Master)
+NNNNNNNNN (Master)"
+300,First Financial Bank,firstfinancialbai2,NNNNNNNNNN (Master)
+301,RBC Private Banking Retail (CA),rbcbusinessbankingbai2,NNNNNNNNNNNNNNNNN (Master)
+302,Safra National Bank of New York,safrany,"NNNNNNN (Master)
+NNNNNNNN (Master)
+NNNNNNNNNN (Master)
+AXXNNNN (Master)"
+303,"Credit Suisse PsN Light APAC (AU, GB, GG, HK, SG)",creditsuissepsnapac,"NNNNN-N (Master)
+NNNNNN-N (Master)
+NNNNNN-NN (Master)
+NNNNNN-NNN (Master)
+NNNNNNN-N (Master)
+NNNNNNN-NN (Master)"
+304,BMO Online Banking for Business,bmoolbbbai2,NNNNNNNNNN (Master)
+305,Bank of America,bankofamerica,NNNNNNNNNNNN (Master)
+306,BMO Prime Brokerage,bmoprimebrokerage,"AAAAN (Master)
+AAAAA (Master)"
+307,DST FanMail,dst,
+308,Bank of America CashPro,bankofamericabai2,NNNNNNNNNNNN (Master)
+309,StoneCastle Cash Management,stonecastle,"NNNNNNNNNNNN (Master)
+NNNNNNNNNNNN-NNNNNNNNNN (Master)"
+311,Aurora Private Wealth,pershingaurorapw,XXXNNNNNN (Master)
+312,Sanders Morris Harris LLC,pershingsandersmorrisharris,XXXNNNNNN (Master)
+313,Charles Schwab High Yield Investor Checking (HYIC),schwab,NNNNNNNN (Master)
+317,Bangor Savings Bank,bangorsavingsbankbai2,NNNNNNNNNNN (Master)
+318,SYZ Capital AG,g2bankingsyzcapital,ANNNNNNN (Master)
+319,StoneX,betastonex,"NNNNNNNN (Master)
+NNNNNN (Master)"
+320,Amegy Bank Treasury Management,,NNNNNNNNNN (Master)
+322,Peoples United Bank,,NNNNNNNNNN (Master)
+323,Sanctuary Securities,pershingsanctuarysecurities,XXXNNNNNN (Master)
+325,TD Wealth Private Client Group,pershingtdwealth,XXXNNNNNN (Master)
+326,Benjamin F. Edwards & Company Inc,pershingbenjaminfedwards,XXXNNNNNNN (Master)
+327,Intercam Securities Inc,pershingintercam,XXXNNNNNN (Master)
+328,Popular Bank,popularbankbai2,NNNNNNNNNN (Master)
+332,Banco do Brasil Securities,pershingbrasilsecurities,XXXNNNNNN (Master)
+333,Rothschild Investment Corporation,pershingrothschildinvestment,XXXNNNNNN (Master)
+334,"Credit Suisse PsN Light (CH, LU)",creditsuissepsnchlu,"NNN-NNNNNNN-N (Master)
+NNNNN-N (Master)
+NNNNNN-N (Master)
+NNNNNN-NN (Master)
+NNNNNNN-N (Master)
+NNNN-NNNNNNN-NN-NNN (Master)"
+335,First Republic Securities Company,pershingfirstrepublic,XXXNNNNNN (Master)
+336,Principal Financial: Principal Custody Solutions,principalfinancial,"NNNNNNNN (Master)
+NNNNNNNNN (Master)
+NNNNNNNNNN (Master)"
+337,BCI Securities,pershingbcisecurities,XXXNNNNNN (Master)
+338,CIBC Private Wealth Management,smacibcprivatewealth,NNN-NNNN (Master)
+339,M.S. Howells & Co.,pershingmshowells,XXXNNNNNN (Master)
+340,CIBC First Caribbean International Bank,pershingcibcfirstcaribbean,XXXNNNNNN (Master)
+343,Fidelity Investments: Private Wealth Management (PWM),fidelity,"ANNNNNNNN (Master)
+NNNNNNNNN (Master)"
+344,Pacific Premier Trust,smapacificpremiertrust,NNNNNNNNNNNN (Master)
+345,UMB Investment Bank Private Wealth Management,smaumbbank,NNNNNNNN (Master)
+346,Frost Bank Brokerage,fidelity,NNNNNNNNN (Master)
+347,CIBC Mellon,workbench,"AAAANNNNNNNNN (Master)
+AAAANNNNNNNN (Master)"
+348,"BTIG, LLC",pershingbtigprimebrokerage,XXXNNNNNN (Master)
+349,"LW Casa de Valores, S.R.L.",pershingcasavalores,XXXNNNNNN (Master)
+351,Credicorp Capital,pershingcredicorpcapital,XXXNNNNNN (Master)
+352,CG Compass (USA) LLC,pershingcompassgroup,XXXNNNNNN (Master)
+353,Bank Vontobel AG (CH),vontobel,"NNNNNN.NNN (Master)
+NNNNNNN.NNN (Master)
+NNNNNNNX.NNN (Master)
+NNNNN.NNN (Master)"
+355,Access Securities,pershingaccesssecurities,XXXNNNNNN (Master)
+356,Old National Bank,fisoldnational,NNNNNNNNN (Master)
+358,Wells Fargo Prime Services,wellsfargoprimeservicesgpas,"NAANNNNN (Master)
+AANN (Master)"
+360,Greenleaf Trust,fitekgreenleaftrust,"NNNNNNNN (Master)
+NXNNNNNN (Master)"
+361,Pontera,pontera,"NNNN-NNNNNN (Master)
+NNNN-NNNNNNN (Master)"
+364,Glenmede,Glenmede,NNNN (Master)
+365,iCapital ,icapitalv2,"NNN (Master)
+NNNN (Master)
+NNNNN (Master)
+NNNNNN (Master)"
+368,Moneda Gestion de Inversiones,pershingmoneda,XXXNNNNNN (Master)
+370,Banco Itau (US),itauust24,"NNNNNNN (Master)
+NNNNNNN-N (Master)"
+371,HSBC Bank USA - Brokerage Trust & Custody,hsbcusa,"NN-NNNNNNNN (Master)
+NNNNNNNNNN (Master)
+NNNNNNNN (Master)
+NNNNNA (Master)
+NNNNNNNNA (Master)
+NNNNNNNNN (Master)"
+372,Apex Clearing,apexclearing,XXXXXXXX (Master)
+374,DBS Bank Limited,dbsbank,"AANNNNNNNNNN
+NNNNNNNNNN
+NNNNNNNNNNNN
+NNNNNNNNNNNNN
+AANNNNNNNNNN (Master)
+NNNNNNNNNN (Master)
+NNNNNNNNNNNN (Master)
+NNNNNNNNNNNNN (Master)"
+375,R.W. Baird & Co.,rwbaird,NNNNNNNN (Master)
+376,Fidelity Investments: Tax Exempt Fidelity Participant Recording System (FPRS),fidelityfprs,"NNNNNNNNNNNNN
+ANNNNNNNN (Master)"
+377,The Private Trust Company,fitekprivatetrust,"XXXXXNNN
+XXXXXNNN (Master)"
+378,Sanibel Captiva Trust Company,spcsanibeltrust,AAAAAAAAAAAANN (Master)
+379,HSBC Private Bank (Geneva),evarehsbcgeneva,AAAAAAA (Master)
+380,Spire Securities LLC,pershingspiresecurities,"XXXNNNNNN
+XXXNNNNNN (Master)"
+381,Royal Alliance,pershingroyalalliance,XXXNNNNNN (Master)
+382,Insigneo International Financial Services (IIFS),pershinginsigneointernational,XXXNNNNNN (Master)
+383,Zions Bank,fitekzionsbancorp,"XXNNNNNNX (Master)
+XXXNNNNNN (Master)"

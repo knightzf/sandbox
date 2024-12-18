@@ -1,0 +1,3 @@
+2023-10-24 16:51:38,631 [INFO] someething is id: 1, format: aaaa
+2023-10-24 16:51:57,092 [INFO] someething is [AccountNumberFormat()]
+2023-10-24 16:54:30,497 [INFO] someething is [AccountNumberFormat(1, aaaa)]
