@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script type="text/javascript">
+  function UserAction() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+        json = JSON.parse(this.responseText)
+        document.getElementById("result").textContent = json["data"];
+        //alert(json["data"]);
+      }
+    };
+    xhttp.open("POST", "http://localhost:1188/translate", true);
+    xhttp.setRequestHeader("Content-type", "application/json;charset=UTF-8");
+    data = {
+      "source_lang": document.getElementById("lang").value,
+      "target_lang": "ZH",
+      "text": document.getElementById("text").value
+    }
+    xhttp.send(JSON.stringify(data));
+  }
+</script>
+
+<h1>DeepL Translate API</h1>
+
+<textarea id="text" rows="10" cols="100"></textarea>
+<p></p>
+<select id="lang">
+  <option value="EN">English</option>
+  <option value="JA">Japanese</option>
+</select>
+<button type="submit" onclick="UserAction()">Translate</button>
+
+<p>Results</p>   
+<textarea id="result" rows="10" cols="100"></textarea>
+  
+</body>
+</html>
