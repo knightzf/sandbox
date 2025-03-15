@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Twitter Proxy Extension",
+  "description": "Routes Twitter traffic through a proxy using a PAC script.",
+  "version": "1.0",
+  "permissions": [
+    "proxy",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
