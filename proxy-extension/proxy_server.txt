@@ -1,0 +1,9 @@
+1. start new instance with ubuntu image
+2. open port from the vpc and profile
+3. open port from iptable https://superuser.com/a/1709030
+4. install squid, update /etc/squid3/squid.conf to "http_access allow all"
+5. test from another shell 
+   curl -x http://129.146.172.227:3128 -L Https://www.google.com
+6. set up windows network proxy config
+7. start chrome with proxy config 
+   chrome.exe --proxy-server="http://129.146.172.227:3128"
